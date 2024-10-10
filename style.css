@@ -1,0 +1,32 @@
+#logo{
+    padding: 25px 30px 0 30px;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav li a{
+    font-size: 14px;
+    color: #8d94ad;
+    margin-left: 12px;
+}
+#orta ul{
+    display: flex;
+    align-items: center;
+    /* justify-content: space-around; */
+    gap: 40px;
+    padding: 35px 0 0 0;
+}
+#orta ul li a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 18px;
+}
+#axir {
+    padding: 25px 30px 0 0;
+}
+#main{
+    
+}
